@@ -1,6 +1,6 @@
 # ChineseTextManipulateResouce
 
-中文**文本数据(挖掘)分析**相关资源汇总
+中文**文本数据(挖掘)分析**相关资源汇总，【公众号:大邓和他的Python】
 
 # 一、Python库
 
