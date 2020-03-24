@@ -56,7 +56,7 @@
 
 
 # 更多资源教程
-[B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)B站
-公众号：大邓和他的python
-[知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
+- [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)B站
+- 公众号：大邓和他的python
+- [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 
