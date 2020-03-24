@@ -55,8 +55,10 @@
 | 重大事件抽取            | https://github.com/liuhuanyong/ImportantEventExtractor      | 针对某一事件话题下的新闻报道集合，通过使用docrank算法，对新闻报道进行重要性识别，并通过新闻报道时间挑选出时间线上重要新闻。 |
 
 
-# 更多资源教程
-- [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)B站
+
+# 更多
+
+- [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
 - 公众号：大邓和他的python
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
-
+- [《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课
