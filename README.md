@@ -1,0 +1,2 @@
+# ChineseTextManipulateResouce
+中文文本分析相关资源汇总
