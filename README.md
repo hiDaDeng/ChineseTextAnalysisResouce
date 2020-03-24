@@ -54,3 +54,9 @@
 | 京东商品知识图谱        | https://github.com/liuhuanyong/ProductKnowledgeGraph        | 基于京东网站的1300种商品上下级概念，约10万商品品牌，约65万品牌销售关系，商品描述维度等知识库，基于该知识库可以支持商品属性库构建，商品销售问答，品牌物品生产等知识查询服务，也可用于情感分析等下游应用． |
 | 重大事件抽取            | https://github.com/liuhuanyong/ImportantEventExtractor      | 针对某一事件话题下的新闻报道集合，通过使用docrank算法，对新闻报道进行重要性识别，并通过新闻报道时间挑选出时间线上重要新闻。 |
 
+
+# 更多资源教程
+[B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)B站
+公众号：大邓和他的python
+[知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
+
