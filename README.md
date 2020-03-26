@@ -1,12 +1,13 @@
-# ChineseTextManipulateResouce
+中文文本分析相关资源汇总
 
-中文**文本数据(挖掘)分析**相关资源汇总，【公众号:大邓和他的Python】
-
-# 一、Python库
+### Python库
 
 | 项目                                  | 地址                                                      | 简介                                                         |
 | ------------------------------------- | --------------------------------------------------------- | :----------------------------------------------------------- |
 | jieba分词                             | https://github.com/fxsjy/jieba                            | 中文分词库                                                   |
+| cnsenti                               | https://github.com/thunderhit/cnsenti                     | 中文文本情感分析、情绪分析库                                 |
+| 快速构建专属领域中文情感词典          | https://github.com/thunderhit/wordexpansion               | 使用SO_PMI互信息算法简单快速构建不同领域(手机、汽车等)的专业情感词典 |
+| eventextraction                       | https://github.com/thunderhit/eventextraction             | 计算文本逻辑性                                               |
 | 中文复杂事件的概念与显式模式          | https://github.com/thunderhit/eventextraction             | 中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。 |
 | 中文信息抽取工具                      | https://github.com/fighting41love/cocoNLP                 | 从中文文本数据中抽取出结构化的信息，如时间、手机号、运营商、邮箱、地址、人名、身份证 |
 | 图片识别                              | https://github.com/breezedeus/cnocr                       | 识别出图片中的中文文本                                       |
@@ -24,22 +25,25 @@
 
 
 
-# 二、语料(数据)
+### 语料(数据)
 
-| 资源名           | 地址                                                 | 介绍                                                         |
-| ---------------- | ---------------------------------------------------- | ------------------------------------------------------------ |
-| 微信公众号语料库 | https://github.com/SophonPlus/ChineseNlpCorpus       | 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。 |
-| 中文公司名语料库 | https://github.com/wainshine/Company-Names-Corpus    | 公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 |
-| 微信公众号语料库 | https://github.com/nonamestreet/weixin_public_corpus | 数据量3G；纯文本,每行一篇，JSON格式。name是微信公众号名字，account是微信公众号ID，title是题目，content是正文。 |
-| 多语言音频数据   | https://voice.mozilla.org/en/datasets                | 多种语言音频数据，包括来自42,000名贡献者超过1,400小时的语音样本，涵github |
-| 知识问答         | https://github.com/liuhuanyong/MiningZhiDaoQACorpus  | 百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签。基于该问答语料库，可支持多种应用，如闲聊问答，逻辑挖掘。 |
-| 中文任务基准测评 | https://github.com/CLUEbenchmark/CLUE                | 中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜 |
+| 资源名             | 地址                                                 | 介绍                                                         |
+| ------------------ | ---------------------------------------------------- | ------------------------------------------------------------ |
+| 微信公众号语料库   | https://github.com/SophonPlus/ChineseNlpCorpus       | 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。 |
+| 中文公司名语料库   | https://github.com/wainshine/Company-Names-Corpus    | 公司简称,缩写,品牌词,企业名。可用于中文分词、机构名实体识别。 |
+| 微信公众号语料库   | https://github.com/nonamestreet/weixin_public_corpus | 数据量3G；纯文本,每行一篇，JSON格式。name是微信公众号名字，account是微信公众号ID，title是题目，content是正文。 |
+| 多语言音频数据     | https://voice.mozilla.org/en/datasets                | 多种语言音频数据，包括来自42,000名贡献者超过1,400小时的语音样本，涵github |
+| 知识问答           | https://github.com/liuhuanyong/MiningZhiDaoQACorpus  | 百度知道问答语料库，包括超过580万的问题，938万的答案，5800个分类标签。基于该问答语料库，可支持多种应用，如闲聊问答，逻辑挖掘。 |
+| 中文任务基准测评   | https://github.com/CLUEbenchmark/CLUE                | 中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜 |
+| 中文突发事件语料库 | https://github.com/shijiebei2009/CEC-Corpus          | 中文突发事件语料库（Chinese Emergency Corpus）-上海大学-语义智能实验室 |
+|                    |                                                      |                                                              |
+|                    |                                                      |                                                              |
 
 
 
 
 
-# 三、知识图谱
+### 知识图谱
 
 
 
@@ -54,14 +58,3 @@
 | 京东商品知识图谱        | https://github.com/liuhuanyong/ProductKnowledgeGraph        | 基于京东网站的1300种商品上下级概念，约10万商品品牌，约65万品牌销售关系，商品描述维度等知识库，基于该知识库可以支持商品属性库构建，商品销售问答，品牌物品生产等知识查询服务，也可用于情感分析等下游应用． |
 | 重大事件抽取            | https://github.com/liuhuanyong/ImportantEventExtractor      | 针对某一事件话题下的新闻报道集合，通过使用docrank算法，对新闻报道进行重要性识别，并通过新闻报道时间挑选出时间线上重要新闻。 |
 
-
-
-# 更多
-
-- [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
-- 公众号：大邓和他的python
-- [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
-- [《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课
-
-# 支持一下
-![](https://github.com/thunderhit/DaDengAndHisPython/blob/master/img/my_zanshang_qrcode.jpg)
