@@ -5,10 +5,10 @@
 | 项目                                  | 地址                                                      | 简介                                                         |
 | ------------------------------------- | --------------------------------------------------------- | :----------------------------------------------------------- |
 | jieba分词                             | https://github.com/fxsjy/jieba                            | 中文分词库                                                   |
-| cnsenti                               | https://github.com/thunderhit/cnsenti                     | 中文文本情感分析、情绪分析库                                 |
-| 快速构建专属领域中文情感词典          | https://github.com/thunderhit/wordexpansion               | 使用SO_PMI互信息算法简单快速构建不同领域(手机、汽车等)的专业情感词典 |
-| eventextraction                       | https://github.com/thunderhit/eventextraction             | 计算文本逻辑性                                               |
-| 中文复杂事件的概念与显式模式          | https://github.com/thunderhit/eventextraction             | 中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。 |
+| cnsenti                               | https://github.com/hidadeng/cnsenti                     | 中文文本情感分析、情绪分析库                                 |
+| 快速构建专属领域中文情感词典          | https://github.com/hidadeng/wordexpansion               | 使用SO_PMI互信息算法简单快速构建不同领域(手机、汽车等)的专业情感词典 |
+| eventextraction                       | https://github.com/hidadeng/eventextraction             | 计算文本逻辑性                                               |
+| 中文复杂事件的概念与显式模式          | https://github.com/hidadeng/eventextraction             | 中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。 |
 | 中文信息抽取工具                      | https://github.com/fighting41love/cocoNLP                 | 从中文文本数据中抽取出结构化的信息，如时间、手机号、运营商、邮箱、地址、人名、身份证 |
 | 图片识别                              | https://github.com/breezedeus/cnocr                       | 识别出图片中的中文文本                                       |
 | label-studio多媒体标注工具            | https://github.com/heartexlabs/label-studio               | 可对文本、图片、音频和视频数据进行标注                       |
