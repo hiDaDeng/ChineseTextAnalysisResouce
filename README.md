@@ -5,6 +5,7 @@
 | 项目                                  | 地址                                                      | 简介                                                         |
 | ------------------------------------- | --------------------------------------------------------- | :----------------------------------------------------------- |
 | jieba分词                             | https://github.com/fxsjy/jieba                            | 中文分词库                                                   |
+| multistop                       | https://github.com/hidadeng/multistop            | 停用词表，支持中英法德等15种语言                                            |
 | cnsenti                               | https://github.com/hidadeng/cnsenti                     | 中文文本情感分析、情绪分析库                                 |
 | 快速构建专属领域中文情感词典          | https://github.com/hidadeng/wordexpansion               | 使用SO_PMI互信息算法简单快速构建不同领域(手机、汽车等)的专业情感词典 |
 | eventextraction                       | https://github.com/hidadeng/eventextraction             | 计算文本逻辑性                                               |
