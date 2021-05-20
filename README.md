@@ -21,6 +21,8 @@
 | 开源金融大数据                        | https://github.com/PKUJohnson/OpenData                    | 股票、基金、期货、宏观等金融数据。还有非金融数据，如空气质量、高考录取分、院线票房等非金融数据 |
 | 中日韩分词                            | https://github.com/jeongukjae/python-mecab                | 中日韩分词工具                                               |
 | 汉字数字(中文数字)-阿拉伯数字转换工具 | https://github.com/Wall-ee/chinese2digits                 | 最好的汉字数字(中文数字)-阿拉伯数字转换工具。                |
+| 中文地址提取工具                           | https://github.com/shibing624/addressparser     | 中文地址提取工具，支持中国三级区划地址（省、市、区）提取和映射，支持地址热力图绘制。 |
+| 中文公司名称分词工具                           | https://github.com/shibing624/companynameparser    | 中文公司名称分词工具，支持公司名称中的地名，品牌名（主词），行业词，公司名后缀提取。 |
 
 
 
