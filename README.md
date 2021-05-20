@@ -25,8 +25,8 @@
 | 中文公司名称分词工具                           | https://github.com/shibing624/companynameparser    | 中文公司名称分词工具，支持公司名称中的地名，品牌名（主词），行业词，公司名后缀提取。 |
 
 
-
-
+<br>
+<br>
 
 ### 语料(数据)
 
@@ -44,6 +44,8 @@
 
 
 
+<br>
+<br>
 
 
 ### 知识图谱
@@ -62,6 +64,8 @@
 | 重大事件抽取            | https://github.com/liuhuanyong/ImportantEventExtractor      | 针对某一事件话题下的新闻报道集合，通过使用docrank算法，对新闻报道进行重要性识别，并通过新闻报道时间挑选出时间线上重要新闻。 |
 
 
+<br>
+<br>
 
 # 如果
 
@@ -79,6 +83,8 @@
 [![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
 
 
+<br>
+<br>
 
 # 更多
 
