@@ -1,7 +1,8 @@
 中文文本分析相关资源汇总
 - [LIST | 社科(经管)数据挖掘文献资料汇总](https://textdata.cn/blog/the_text_analysis_list_about_ms/)
 - [LIST | 可供社科(经管)领域使用的数据集汇总](https://textdata.cn/blog/datasets_available_for_management_science/)
-
+- [https://textdata.cn/](https://textdata.cn/blog/)
+- 
 <br><br>
 
 # 1. Python库
