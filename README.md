@@ -11,11 +11,11 @@
 | 项目                                  | 地址                                                      | 简介                                                         |
 | ------------------------------------- | --------------------------------------------------------- | :----------------------------------------------------------- |
 | jieba分词                             | https://github.com/fxsjy/jieba                            | 中文分词库                                                   |
+| **cntext开源版**                             | https://github.com/hidadeng/cntext                    | 中文文本情感分析、情绪分析库                                 |
+| **cntext2.x**                             | https://cntext.readthedocs.io/zh-cn/latest//                    | 增加了更多新功能， 如无必要可先用开源版cntext                                 |
 | multistop                       | https://github.com/hidadeng/multistop            | 停用词表，支持中英法德等15种语言                                            |
 | cnsenti                               | https://github.com/hidadeng/cnsenti                     | 中文文本情感分析、情绪分析库                                 |
 | tomotopy                                 | https://github.com/bab2min/tomotopy                     | 最快的主题模型，C的速度                        |
-| **cntext开源版**                             | https://github.com/hidadeng/cntext                    | 中文文本情感分析、情绪分析库                                 |
-| **cntext2.x**                             | https://textdata.cn/blog/2024-04-27-cntext2x-usage-tutorial/                    | 增加了更多新功能， 如无必要可先用开源版cntext                                 |
 | 快速构建专属领域中文情感词典          | https://github.com/hidadeng/wordexpansion               | 使用SO_PMI互信息算法简单快速构建不同领域(手机、汽车等)的专业情感词典 |
 | eventextraction                       | https://github.com/hidadeng/eventextraction             | 计算文本逻辑性                                               |
 | 中文复杂事件的概念与显式模式          | https://github.com/hidadeng/eventextraction             | 中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。 |
