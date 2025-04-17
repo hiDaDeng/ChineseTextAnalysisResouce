@@ -87,7 +87,7 @@
 | [黑猫消费者投诉](https://textdata.cn/blog/2025-03-05-consumer-complaint-dataset/)                   | **_消费者黑猫投诉-Word2Vec.200.15.bin_**                                                                                  | https://pan.baidu.com/s/1FOI2BIVRojOswdKfqaNbsw?pwd=catc  | 0.32           | 16.18       | 68          | 28.57       | 0.00        |
 | [豆瓣影评](https://textdata.cn/blog/2024-04-16-douban-movie-1000w-ratings-comments-dataset)         | **_douban-movie-1000w-Word2Vec.200.15.bin_**                                                                              | https://pan.baidu.com/s/1uq6Ti7HbEWyT4CgktKrMng?pwd=63jg  | 0.43           | 39.02       | 28.57       | 92.65       | 25.00       |
 | [B 站](https://textdata.cn/blog/2023-11-12-using-100m-bilibili-user-sign-data-to-training-word2vec) | **_B 站签名-Word2Vec.200.15.bin_**                                                                                        | https://pan.baidu.com/s/1OtBU9BzitcNxkmPzhzH6FQ?pwd=m3iv  | 0.34           | 25.56       | 33.71       | 44.17       | 0.00        |
-
+| [B 站弹幕](https://github.com/Viscount/IUI-Paper)| **_B 站弹幕-Word2Vec.200.15.bin_**        |   https://pan.baidu.com/s/1LNDLed5uP3KnUMmrKf_uhg?pwd=x4t8  | 0.42           | 11.67       | 65.81       | 44.17       | 25.00       |
 
 
 
