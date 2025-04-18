@@ -90,6 +90,10 @@ cntext2.x 训练模型的教程可参考
 
 **近义测试**
 
+cntext2.x 内置 537 条近义实验数据， 可直接使用。
+
+![](img/01-similar.png)
+
 ```python
 ct.evaluate_similarity(w2v)
 ```
@@ -113,6 +117,16 @@ Spearman’s Rank Coeficient 系数取值[-1, 1], 取值越大， 说明模型�
 <br>
 
 **类比测试**
+
+- 雅典之于希腊，似如巴格达之于伊拉克。
+- 哈尔滨之于黑龙江，似如长沙之于湖南。
+- 国王之于王后，似如男人之于女人。
+
+![](img/02-analogy-woman.png)
+
+cntext2.x 内置 1194 条类比， 格式如下
+
+![](img/03-analogy.png)
 
 ```python
 ct.evaluate_analogy(wv)
